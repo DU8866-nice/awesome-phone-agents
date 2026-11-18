@@ -1,0 +1,41 @@
+name: 推荐项目 / Recommend a project
+description: 推荐一个手机 AI 智能体相关的开源项目 / Suggest an open-source phone agent project
+title: "[推荐] "
+labels: ["recommendation"]
+body:
+  - type: input
+    id: repo
+    attributes:
+      label: GitHub 仓库 / Repository
+      placeholder: owner/name
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: 分类 / Category
+      options:
+        - 安卓手机上的智能体 / Android agent apps
+        - iPhone 上的智能体 / iPhone agent apps
+        - 用电脑上的 AI 操作手机 / AI on a computer drives the phone
+        - 手机 Agent 框架 / Phone agent frameworks
+        - 在手机上指挥编程助手 / Steer coding agents from the phone
+        - 开发者测试 / App testing
+        - 模型与评测 / Models and benchmarks
+        - 基础工具 / Building blocks
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: 推荐理由 / Why
+      description: 支持安卓还是 iPhone？要不要电脑、root？模型从哪来？你实际用过吗？ / Android or iPhone? Needs a computer or root? Where does the model come from? Have you used it?
+    validations:
+      required: true
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: 确认 / Checks
+      options:
+        - label: 不是群控、刷量、绕过风控或游戏外挂类工具 / Not a phone-farm, fake-engagement, risk-control evasion or game-cheat tool
+          required: true

@@ -1,0 +1,514 @@
+{
+ "AAswordman/Operit": {
+  "archived": false,
+  "created": "2025-03-15",
+  "fetched": "2026-11-18",
+  "license": "LGPL-3.0",
+  "pushed": "2026-11-12",
+  "stars": 9679
+ },
+ "AltanS/collie": {
+  "archived": false,
+  "created": "2026-06-28",
+  "fetched": "2026-11-18",
+  "license": "MIT",
+  "pushed": "2026-11-17",
+  "stars": 1669
+ },
+ "ComputerUseAgent/AutoCua": {
+  "archived": false,
+  "created": "2026-10-08",
+  "fetched": "2026-11-18",
+  "license": "MIT",
+  "pushed": "2026-11-17",
+  "stars": 1296
+ },
+ "DIYgod/pinky": {
+  "archived": false,
+  "created": "2026-11-06",
+  "fetched": "2026-11-18",
+  "license": "Apache-2.0",
+  "pushed": "2026-11-18",
+  "stars": 2378
+ },
+ "DSH-APP/DSHA": {
+  "archived": false,
+  "created": "2026-08-14",
+  "fetched": "2026-11-18",
+  "license": "MIT",
+  "pushed": "2026-11-14",
+  "stars": 3521
+ },
+ "Genymobile/scrcpy": {
+  "archived": false,
+  "created": "2017-11-21",
+  "fetched": "2026-11-18",
+  "license": "Apache-2.0",
+  "pushed": "2026-11-17",
+  "stars": 155090
+ },
+ "HKUDS/PhoneGo": {
+  "archived": false,
+  "created": "2025-10-19",
+  "fetched": "2026-11-18",
+  "license": "MIT",
+  "pushed": "2026-11-17",
+  "stars": 1012
+ },
+ "IPADS-SAI/MobiAgent": {
+  "archived": false,
+  "created": "2025-08-29",
+  "fetched": "2026-11-18",
+  "license": "Apache-2.0",
+  "pushed": "2026-07-17",
+  "stars": 1936
+ },
+ "JMAN730/opendroid": {
+  "archived": false,
+  "created": "2026-05-21",
+  "fetched": "2026-11-18",
+  "license": "NOASSERTION",
+  "pushed": "2026-11-10",
+  "stars": 1295
+ },
+ "K9i-0/ccpocket": {
+  "archived": false,
+  "created": "2026-02-06",
+  "fetched": "2026-11-18",
+  "license": "MIT",
+  "pushed": "2026-11-18",
+  "stars": 1105
+ },
+ "Louis-CFM/coucou": {
+  "archived": false,
+  "created": "2026-09-27",
+  "fetched": "2026-11-18",
+  "license": "MIT",
+  "pushed": "2026-11-13",
+  "stars": 7307
+ },
+ "Mangi-11/Eta": {
+  "archived": false,
+  "created": "2026-03-26",
+  "fetched": "2026-11-18",
+  "license": "GPL-3.0",
+  "pushed": "2026-11-17",
+  "stars": 2967
+ },
+ "ModalityDance/PalmClaw": {
+  "archived": false,
+  "created": "2026-03-15",
+  "fetched": "2026-11-18",
+  "license": "AGPL-3.0",
+  "pushed": "2026-10-21",
+  "stars": 1182
+ },
+ "Nexting-ai/nexting": {
+  "archived": false,
+  "created": "2026-03-10",
+  "fetched": "2026-11-18",
+  "license": "MIT",
+  "pushed": "2026-11-17",
+  "stars": 2352
+ },
+ "OSU-NLP-Group/GUI-Agents-Paper-List": {
+  "archived": false,
+  "created": "2024-10-30",
+  "fetched": "2026-11-18",
+  "license": null,
+  "pushed": "2026-11-17",
+  "stars": 932
+ },
+ "OpenBMB/AgentCPM-GUI": {
+  "archived": false,
+  "created": "2025-05-13",
+  "fetched": "2026-11-18",
+  "license": "Apache-2.0",
+  "pushed": "2026-01-11",
+  "stars": 1430
+ },
+ "OpenMinis/iCTRL": {
+  "archived": false,
+  "created": "2026-07-04",
+  "fetched": "2026-11-18",
+  "license": "Apache-2.0",
+  "pushed": "2026-11-12",
+  "stars": 621
+ },
+ "PhoneLLM/Awesome-LLM-Powered-Phone-GUI-Agents": {
+  "archived": false,
+  "created": "2024-12-29",
+  "fetched": "2026-11-18",
+  "license": "Apache-2.0",
+  "pushed": "2026-09-16",
+  "stars": 186
+ },
+ "TencentQQGYLab/AppAgent": {
+  "archived": false,
+  "created": "2023-12-20",
+  "fetched": "2026-11-18",
+  "license": "MIT",
+  "pushed": "2025-03-19",
+  "stars": 6922
+ },
+ "Tongyi-MAI/MAI-UI": {
+  "archived": false,
+  "created": "2025-12-15",
+  "fetched": "2026-11-18",
+  "license": null,
+  "pushed": "2026-08-19",
+  "stars": 2430
+ },
+ "Turbo1123/roubao": {
+  "archived": false,
+  "created": "2025-12-09",
+  "fetched": "2026-11-18",
+  "license": "MIT",
+  "pushed": "2026-11-09",
+  "stars": 2419
+ },
+ "WSK-build/DSHBox": {
+  "archived": false,
+  "created": "2026-08-17",
+  "fetched": "2026-11-18",
+  "license": "GPL-3.0",
+  "pushed": "2026-11-16",
+  "stars": 710
+ },
+ "X-PLUG/MobileAgent": {
+  "archived": false,
+  "created": "2024-01-26",
+  "fetched": "2026-11-18",
+  "license": "MIT",
+  "pushed": "2026-11-03",
+  "stars": 9386
+ },
+ "agents-io/PokeClaw": {
+  "archived": false,
+  "created": "2026-04-06",
+  "fetched": "2026-11-18",
+  "license": "Apache-2.0",
+  "pushed": "2026-06-02",
+  "stars": 1162
+ },
+ "budtmo/docker-android": {
+  "archived": false,
+  "created": "2016-12-22",
+  "fetched": "2026-11-18",
+  "license": "NOASSERTION",
+  "pushed": "2026-11-18",
+  "stars": 16154
+ },
+ "callstack/agent-device": {
+  "archived": false,
+  "created": "2026-01-30",
+  "fetched": "2026-11-18",
+  "license": "MIT",
+  "pushed": "2026-11-18",
+  "stars": 5431
+ },
+ "ccch1mneyyy/dsh-Go": {
+  "archived": false,
+  "created": "2026-10-25",
+  "fetched": "2026-11-18",
+  "license": "AGPL-3.0",
+  "pushed": "2026-11-18",
+  "stars": 26073
+ },
+ "danielealbano/android-remote-control-mcp": {
+  "archived": false,
+  "created": "2026-02-11",
+  "fetched": "2026-11-18",
+  "license": "NOASSERTION",
+  "pushed": "2026-11-13",
+  "stars": 846
+ },
+ "droidrun/mobilerun": {
+  "archived": false,
+  "created": "2025-04-12",
+  "fetched": "2026-11-18",
+  "license": "MIT",
+  "pushed": "2026-11-17",
+  "stars": 10061
+ },
+ "getpaseo/paseo": {
+  "archived": false,
+  "created": "2025-10-13",
+  "fetched": "2026-11-18",
+  "license": "NOASSERTION",
+  "pushed": "2026-11-18",
+  "stars": 24274
+ },
+ "google-research/android_world": {
+  "archived": false,
+  "created": "2024-05-13",
+  "fetched": "2026-11-18",
+  "license": "Apache-2.0",
+  "pushed": "2026-11-10",
+  "stars": 1015
+ },
+ "google/artemis": {
+  "archived": false,
+  "created": "2026-08-13",
+  "fetched": "2026-11-18",
+  "license": "Apache-2.0",
+  "pushed": "2026-10-01",
+  "stars": 17646
+ },
+ "gronxb/codex-relay": {
+  "archived": false,
+  "created": "2026-04-27",
+  "fetched": "2026-11-18",
+  "license": "Apache-2.0",
+  "pushed": "2026-11-17",
+  "stars": 746
+ },
+ "happier-dev/happier": {
+  "archived": false,
+  "created": "2025-12-16",
+  "fetched": "2026-11-18",
+  "license": "MIT",
+  "pushed": "2026-11-18",
+  "stars": 2230
+ },
+ "iamr0s/Ruto-GLM": {
+  "archived": false,
+  "created": "2025-12-25",
+  "fetched": "2026-11-18",
+  "license": null,
+  "pushed": "2026-01-11",
+  "stars": 735
+ },
+ "inclusionAI/UI-Venus": {
+  "archived": false,
+  "created": "2025-08-15",
+  "fetched": "2026-11-18",
+  "license": null,
+  "pushed": "2026-10-28",
+  "stars": 1082
+ },
+ "jackwener/DSH-Android": {
+  "archived": false,
+  "created": "2026-10-27",
+  "fetched": "2026-11-18",
+  "license": "Apache-2.0",
+  "pushed": "2026-11-06",
+  "stars": 997
+ },
+ "joshuayoes/ios-simulator-mcp": {
+  "archived": false,
+  "created": "2025-03-20",
+  "fetched": "2026-11-18",
+  "license": "MIT",
+  "pushed": "2026-11-10",
+  "stars": 2231
+ },
+ "kellyvv/PhoneClaw": {
+  "archived": false,
+  "created": "2026-04-04",
+  "fetched": "2026-11-18",
+  "license": "Apache-2.0",
+  "pushed": "2026-08-06",
+  "stars": 1292
+ },
+ "kuafuai/andee": {
+  "archived": false,
+  "created": "2026-09-17",
+  "fetched": "2026-11-18",
+  "license": "NOASSERTION",
+  "pushed": "2026-11-17",
+  "stars": 6152
+ },
+ "lxe/phoneuse": {
+  "archived": false,
+  "created": "2026-11-07",
+  "fetched": "2026-11-18",
+  "license": "MIT",
+  "pushed": "2026-11-15",
+  "stars": 684
+ },
+ "lycorp-jp/sim-use": {
+  "archived": false,
+  "created": "2026-06-26",
+  "fetched": "2026-11-18",
+  "license": "Apache-2.0",
+  "pushed": "2026-11-14",
+  "stars": 1551
+ },
+ "minitap-ai/mobile-use": {
+  "archived": false,
+  "created": "2025-08-16",
+  "fetched": "2026-11-18",
+  "license": "Apache-2.0",
+  "pushed": "2026-11-15",
+  "stars": 3403
+ },
+ "mobile-next/mobile-mcp": {
+  "archived": false,
+  "created": "2025-03-28",
+  "fetched": "2026-11-18",
+  "license": "Apache-2.0",
+  "pushed": "2026-11-17",
+  "stars": 10664
+ },
+ "nano-muse/nanoMuse": {
+  "archived": false,
+  "created": "2026-09-23",
+  "fetched": "2026-11-18",
+  "license": "GPL-3.0",
+  "pushed": "2026-11-13",
+  "stars": 3559
+ },
+ "newo-ether/Agora": {
+  "archived": false,
+  "created": "2026-02-21",
+  "fetched": "2026-11-18",
+  "license": "GPL-3.0",
+  "pushed": "2026-11-17",
+  "stars": 620
+ },
+ "niki914/zafiro": {
+  "archived": false,
+  "created": "2026-06-05",
+  "fetched": "2026-11-18",
+  "license": "MIT",
+  "pushed": "2026-11-17",
+  "stars": 377
+ },
+ "omnimind-ai/OmniBot": {
+  "archived": false,
+  "created": "2026-03-18",
+  "fetched": "2026-11-18",
+  "license": "NOASSERTION",
+  "pushed": "2026-11-18",
+  "stars": 2148
+ },
+ "pingdotgg/t3code": {
+  "archived": false,
+  "created": "2026-02-08",
+  "fetched": "2026-11-18",
+  "license": "MIT",
+  "pushed": "2026-11-18",
+  "stars": 64166
+ },
+ "rounak/PhoneAgent": {
+  "archived": false,
+  "created": "2025-05-30",
+  "fetched": "2026-11-18",
+  "license": "MIT",
+  "pushed": "2026-08-15",
+  "stars": 808
+ },
+ "showlab/Awesome-GUI-Agent": {
+  "archived": false,
+  "created": "2024-06-28",
+  "fetched": "2026-11-18",
+  "license": null,
+  "pushed": "2025-08-17",
+  "stars": 1224
+ },
+ "siteboon/claudecodeui": {
+  "archived": false,
+  "created": "2025-06-25",
+  "fetched": "2026-11-18",
+  "license": "AGPL-3.0",
+  "pushed": "2026-11-16",
+  "stars": 14668
+ },
+ "sky22333/skyadb": {
+  "archived": false,
+  "created": "2026-05-26",
+  "fetched": "2026-11-18",
+  "license": "GPL-3.0",
+  "pushed": "2026-11-17",
+  "stars": 776
+ },
+ "software-mansion/argent": {
+  "archived": false,
+  "created": "2026-02-23",
+  "fetched": "2026-11-18",
+  "license": "Apache-2.0",
+  "pushed": "2026-11-17",
+  "stars": 3206
+ },
+ "suyiiyii/AutoGLM-GUI": {
+  "archived": false,
+  "created": "2025-12-09",
+  "fetched": "2026-11-18",
+  "license": "Apache-2.0",
+  "pushed": "2026-11-17",
+  "stars": 1134
+ },
+ "takahirom/arbigent": {
+  "archived": false,
+  "created": "2024-12-31",
+  "fetched": "2026-11-18",
+  "license": "Apache-2.0",
+  "pushed": "2026-10-02",
+  "stars": 658
+ },
+ "techjarves/Mobile-Harness": {
+  "archived": false,
+  "created": "2026-08-20",
+  "fetched": "2026-11-18",
+  "license": "MIT",
+  "pushed": "2026-11-14",
+  "stars": 952
+ },
+ "wangzan101/Mika": {
+  "archived": false,
+  "created": "2026-10-29",
+  "fetched": "2026-11-18",
+  "license": "Apache-2.0",
+  "pushed": "2026-11-17",
+  "stars": 8974
+ },
+ "wangzhishou/OneBox": {
+  "archived": false,
+  "created": "2026-08-08",
+  "fetched": "2026-11-18",
+  "license": "Apache-2.0",
+  "pushed": "2026-11-17",
+  "stars": 1194
+ },
+ "web-infra-dev/midscene": {
+  "archived": false,
+  "created": "2024-07-23",
+  "fetched": "2026-11-18",
+  "license": "MIT",
+  "pushed": "2026-11-17",
+  "stars": 15632
+ },
+ "witchan/ios-mcp": {
+  "archived": false,
+  "created": "2026-04-07",
+  "fetched": "2026-11-18",
+  "license": "MIT",
+  "pushed": "2026-09-27",
+  "stars": 695
+ },
+ "zai-org/CogAgent": {
+  "archived": false,
+  "created": "2023-11-28",
+  "fetched": "2026-11-18",
+  "license": "Apache-2.0",
+  "pushed": "2026-10-12",
+  "stars": 1202
+ },
+ "zai-org/Open-AutoGLM": {
+  "archived": false,
+  "created": "2025-12-08",
+  "fetched": "2026-11-18",
+  "license": "Apache-2.0",
+  "pushed": "2026-03-06",
+  "stars": 26620
+ },
+ "zhongerxin/iPhone-use": {
+  "archived": false,
+  "created": "2026-10-06",
+  "fetched": "2026-11-18",
+  "license": "MIT",
+  "pushed": "2026-10-22",
+  "stars": 5028
+ }
+}
