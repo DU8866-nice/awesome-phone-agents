@@ -4,15 +4,15 @@ Generated from data/tools.yaml. Fields: repo | stars | last push | os | flags (p
 
 ## 装在安卓手机上的 AI 智能体 / Agent apps for Android phones
 
-- https://github.com/ccch1mneyyy/dsh-Go | stars=26073 | pushed=2026-11-18 | os=android | flags=cn
+- https://github.com/ccch1mneyyy/dsh-Go | stars=26097 | pushed=2026-11-18 | os=android | flags=cn
   - DeepSeek Harness 的手机应用：内置 Linux 环境，在手机本机运行，也能一键切到电脑上的 DSH 接着用；可以看屏幕替你点，三档确认，敏感操作默认交还给你。
   - A phone app for DeepSeek Harness with a built-in Linux environment: run it on the phone or switch to the DSH on your computer; it can read the screen and tap for you, with three confirmation levels and sensitive steps handed back by default.
   - caveat: The iOS version is still in development with no public build
-- https://github.com/AAswordman/Operit | stars=9679 | pushed=2026-11-12 | os=android | flags=local,cn
+- https://github.com/AAswordman/Operit | stars=9680 | pushed=2026-11-12 | os=android | flags=local,cn
   - 开源的安卓 AI Agent 平台：操作手机界面、内置浏览器和 Ubuntu 终端、长期记忆、MCP 和 Skill 扩展，可接云端模型，也能用 MNN 或 llama.cpp 跑本地模型。
   - An open-source agent platform for Android: it operates the phone UI, has a built-in browser and Ubuntu terminal, long-term memory, MCP and skills, and works with cloud models or local MNN and llama.cpp models.
   - caveat: Operates the UI through Accessibility, Shizuku or root; more access unlocks more
-- https://github.com/wangzan101/Mika | stars=8974 | pushed=2026-11-17 | os=android | flags=byok
+- https://github.com/wangzan101/Mika | stars=8977 | pushed=2026-11-17 | os=android | flags=byok
   - 说一句话，它在后台的隐藏屏幕上替你操作 App 和网页直到办完，你可以照常用手机；比如总结群聊、比价加购物车（停在结账前）。
   - Say what you need and it works your apps and the web on a hidden background screen until it's done, while you keep using your phone; it can sum up a group chat or add a pick to your cart and stop before checkout.
   - caveat: There is no Mika server; use your own model key or sign in with ChatGPT, xAI or OpenRouter. Operating apps needs Android 12+
@@ -20,7 +20,7 @@ Generated from data/tools.yaml. Fields: repo | stars | last push | os | flags (p
   - 住在手机或 Mac 上、像人一样用任何 App 的 AI：不用接口、不用 root、不用插电脑，支持任意模型，带长期记忆。
   - An AI that lives on your phone or Mac and uses any app the way you do: no integrations, no root, no cable, any model, with long-term memory.
   - caveat: The README's one-click install goes through a paid third-party build service; you can also download a release and set up your own model
-- https://github.com/nano-muse/nanoMuse | stars=3559 | pushed=2026-11-13 | os=android,ios | flags=-
+- https://github.com/nano-muse/nanoMuse | stars=3560 | pushed=2026-11-13 | os=android,ios | flags=-
   - 开源的个人 Agent，手机、电脑和网页共用一个有名字和形象的助手，替你做事而不只是回答；手机 App、桌面端和中转服务都在仓库里，可以自己部署。
   - An open-source personal agent with one name and look across phone, desktop and web that does things rather than just answering; the phone app, desktop app and relay are all in the repo and can be self-hosted.
   - caveat: The community relay has a free allowance, then you use your own key; the iPhone app is on TestFlight
@@ -90,21 +90,21 @@ Generated from data/tools.yaml. Fields: repo | stars | last push | os | flags (p
 
 ## 用电脑上的 Claude Code、Codex 操作手机 / Let Claude Code or Codex drive your phone
 
-- https://github.com/mobile-next/mobile-mcp | stars=10664 | pushed=2026-11-17 | os=android,ios | flags=pc,cn
+- https://github.com/mobile-next/mobile-mcp | stars=10666 | pushed=2026-11-17 | os=android,ios | flags=pc,cn
   - 手机 MCP 服务器：让 AI 助手操作 iOS、安卓的真机、模拟器和仿真器，用无障碍结构或截图坐标点击。
   - A phone MCP server that lets AI agents drive real iOS and Android devices, simulators and emulators through accessibility snapshots or screenshot taps.
 - https://github.com/zhongerxin/iPhone-use | stars=5028 | pushed=2026-10-22 | os=ios | flags=pc,cn
   - 让 Codex、WorkBuddy 等通过 USB 操作真实 iPhone：打开 App、读取页面、点击滚动输入，并在侧边栏显示手机实时画面。
   - Lets Codex, WorkBuddy and others operate a real iPhone over USB: open apps, read pages, tap, scroll and type, with a live screen in the sidebar.
   - caveat: Needs a Mac and WebDriverAgent signed onto the phone; sends anonymous usage stats by default, set IPHONE_USE_ANALYTICS=0 to turn off
-- https://github.com/DIYgod/pinky | stars=2378 | pushed=2026-11-18 | os=android,ios | flags=pc,cn
+- https://github.com/DIYgod/pinky | stars=2380 | pushed=2026-11-18 | os=android,ios | flags=pc,cn
   - 让 Claude Code、Codex、Cursor 等任何 MCP Agent 操作真实的 iPhone 或安卓手机：你在电脑上看着它干活，有风险的步骤由你批准，随时可以接管，事后能回放。
   - Lets Claude Code, Codex, Cursor or any MCP agent use a real iPhone or Android phone: you watch on your computer, approve risky steps, take over any time and replay afterwards.
   - caveat: Desktop app for macOS, Windows and Linux; asks before payments by default
 - https://github.com/danielealbano/android-remote-control-mcp | stars=846 | pushed=2026-11-13 | os=android | flags=-
   - 装在安卓手机上的 MCP 服务器：Claude 等 AI 远程连上后即可读界面、点按、输入和滑动；可选隐私模式，先把邮箱、卡号等个人信息遮掉再发给模型。
   - An Android app that runs an MCP server on the phone, so Claude and other models can connect remotely to read the UI, tap, type and swipe; an optional privacy mode hides emails, card numbers and other personal data before it reaches the model.
-- https://github.com/witchan/ios-mcp | stars=695 | pushed=2026-09-27 | os=ios | flags=root,cn
+- https://github.com/witchan/ios-mcp | stars=696 | pushed=2026-09-27 | os=ios | flags=root,cn
   - 运行在越狱 iPhone 上的 MCP 服务器：触控手势、硬件按键、文字输入、截图、App 管理和无障碍元素操作。
   - An MCP server for jailbroken iPhones: touch gestures, hardware buttons, text input, screenshots, app management and accessibility elements.
 - https://github.com/lxe/phoneuse | stars=684 | pushed=2026-11-15 | os=ios | flags=pc
@@ -122,7 +122,7 @@ Generated from data/tools.yaml. Fields: repo | stars | last push | os | flags (p
   - 智谱开源的手机 Agent 模型和框架：说一句“打开小红书搜美食”，它看屏幕、规划并自动完成；内置敏感操作确认，登录和验证码可以人工接管，也支持 WiFi 远程调试。
   - Zhipu's open phone agent model and framework: say "search for food on Xiaohongshu" and it reads the screen, plans and finishes the job, with confirmation for sensitive steps, hand-over for logins and CAPTCHAs, and remote ADB over Wi-Fi.
   - caveat: Host the model yourself or use a third-party model service
-- https://github.com/google/artemis | stars=17646 | pushed=2026-10-01 | os=android | flags=pc
+- https://github.com/google/artemis | stars=17648 | pushed=2026-10-01 | os=android | flags=pc
   - Google 开源：把自然语言指令变成可靠的安卓自动化，能跨 App 完成测试流程和日常任务，可通过 MCP 交给 Claude Code 等使用。
   - From Google: turns natural-language instructions into reliable Android automation across apps, for test flows and everyday tasks, and exposes MCP for Claude Code and other agents.
 - https://github.com/droidrun/mobilerun | stars=10061 | pushed=2026-11-17 | os=android,ios | flags=pc,local
@@ -141,7 +141,7 @@ Generated from data/tools.yaml. Fields: repo | stars | last push | os | flags (p
 - https://github.com/IPADS-SAI/MobiAgent | stars=1936 | pushed=2026-07-17 | os=android | flags=cn
   - IPADS 团队的可定制手机 Agent 系统：MobiMind 模型、AgentRR 加速框架和 MobiFlow 评测，附安卓 App。
   - A customizable mobile agent system from the IPADS team with the MobiMind models, the AgentRR acceleration framework, the MobiFlow benchmark and an Android app.
-- https://github.com/ComputerUseAgent/AutoCua | stars=1296 | pushed=2026-11-17 | os=android,ios | flags=pc
+- https://github.com/ComputerUseAgent/AutoCua | stars=1297 | pushed=2026-11-17 | os=android,ios | flags=pc
   - 一组 AI Agent，替你操作 Mac、Windows、Linux、手机和浏览器。
   - A team of AI agents that works your Mac, Windows, Linux, phone and browser.
 - https://github.com/suyiiyii/AutoGLM-GUI | stars=1134 | pushed=2026-11-17 | os=android | flags=pc,cn
@@ -150,19 +150,19 @@ Generated from data/tools.yaml. Fields: repo | stars | last push | os | flags (p
 
 ## 在手机上指挥电脑里的 Claude Code、Codex / Steer Claude Code and Codex from your phone
 
-- https://github.com/pingdotgg/t3code | stars=64166 | pushed=2026-11-18 | os=android,ios | flags=-
+- https://github.com/pingdotgg/t3code | stars=64196 | pushed=2026-11-18 | os=android,ios | flags=-
   - 编程 Agent 的开源控制台：Agent 在你的电脑上跑，用你自己的订阅，在桌前开个线程，出门后在手机上批准下一步；支持 Claude Code、Codex、Cursor 等。
   - An open-source control plane for coding agents: they run on your machine with your own subscriptions, so you start a thread at your desk and approve the next step from your phone; works with Claude Code, Codex, Cursor and more.
-- https://github.com/getpaseo/paseo | stars=24274 | pushed=2026-11-18 | os=android,ios | flags=-
+- https://github.com/getpaseo/paseo | stars=24275 | pushed=2026-11-18 | os=android,ios | flags=-
   - Claude Code、Codex、Copilot、OpenCode 的统一界面：Agent 在你的机器上并行运行，手机、桌面、网页都能推进，支持语音下任务，没有遥测。
   - One interface for Claude Code, Codex, Copilot and OpenCode: agents run in parallel on your machine, you move work forward from phone, desktop or web, with voice mode and no telemetry.
-- https://github.com/siteboon/claudecodeui | stars=14668 | pushed=2026-11-16 | os=web | flags=-
+- https://github.com/siteboon/claudecodeui | stars=14669 | pushed=2026-11-16 | os=web | flags=-
   - Claude Code、Cursor CLI 和 Codex 的桌面和手机网页界面，可本地或远程使用，用 npx 一条命令自己部署。
   - A desktop and mobile web UI for Claude Code, Cursor CLI and Codex, usable locally or remotely and self-hosted with one npx command.
 - https://github.com/Louis-CFM/coucou | stars=7307 | pushed=2026-11-13 | os=ios,android | flags=-
   - 住在 Mac 刘海里的小伙伴，帮你盯着编程 Agent 的会话；离开电脑后跟到 iPhone 或安卓手机上，锁屏、灵动岛和小组件都能批准权限。
   - A tiny friend in your Mac's notch that watches your coding agent sessions and follows you to iPhone or Android, with approvals on the Lock Screen, Dynamic Island and widgets.
-- https://github.com/Nexting-ai/nexting | stars=2352 | pushed=2026-11-17 | os=ios | flags=-
+- https://github.com/Nexting-ai/nexting | stars=2353 | pushed=2026-11-17 | os=ios | flags=-
   - 远程遥控你自己的 AI Agent：从手机连接 Mac 或 Windows 上的 Claude Code、Codex、Grok 和 Cursor，查看会话、发送任务。
   - Remote control for your own agents: connect from your phone to Claude Code, Codex, Grok and Cursor on a Mac or Windows PC to view sessions and send tasks.
 - https://github.com/happier-dev/happier | stars=2230 | pushed=2026-11-18 | os=android,ios | flags=cn
@@ -186,10 +186,10 @@ Generated from data/tools.yaml. Fields: repo | stars | last push | os | flags (p
 - https://github.com/budtmo/docker-android | stars=16154 | pushed=2026-11-18 | os=android | flags=-
   - 把安卓模拟器装进 Docker，浏览器里就能看，带录屏和 MCP 服务器，适合给 Agent 准备测试手机。
   - Android emulators in Docker with noVNC, video recording and an MCP server, handy for giving agents a test phone.
-- https://github.com/web-infra-dev/midscene | stars=15632 | pushed=2026-11-17 | os=android,ios,harmony | flags=cn
+- https://github.com/web-infra-dev/midscene | stars=15633 | pushed=2026-11-17 | os=android,ios,harmony | flags=cn
   - Midscene：AI 视觉测试框架，用自然语言写 E2E 测试，支持网页、安卓、iOS 和鸿蒙。
   - Midscene, an AI-vision E2E testing framework: write tests in natural language for web, Android, iOS and HarmonyOS.
-- https://github.com/callstack/agent-device | stars=5431 | pushed=2026-11-18 | os=android,ios,harmony | flags=-
+- https://github.com/callstack/agent-device | stars=5434 | pushed=2026-11-18 | os=android,ios,harmony | flags=-
   - 给编程 Agent 用的设备层：通过命令行、MCP 或 Node.js API 控制 iOS、安卓、鸿蒙的模拟器和真机，让 Agent 在运行中的 App 里验证自己的改动。
   - A device layer for coding agents: a CLI, MCP server and Node.js API to control iOS, Android and HarmonyOS simulators and devices, so agents can verify their changes in the running app.
 - https://github.com/software-mansion/argent | stars=3206 | pushed=2026-11-17 | os=android,ios | flags=cn
@@ -225,7 +225,7 @@ Generated from data/tools.yaml. Fields: repo | stars | last push | os | flags (p
 
 ## 基础工具 / Building blocks
 
-- https://github.com/Genymobile/scrcpy | stars=155090 | pushed=2026-11-17 | os=android | flags=pc
+- https://github.com/Genymobile/scrcpy | stars=155089 | pushed=2026-11-17 | os=android | flags=pc
   - 在电脑上显示并控制安卓手机，很多手机 Agent 都靠它看屏幕和操作。
   - Display and control your Android device from a computer; many phone agents rely on it to see and act.
 - https://github.com/sky22333/skyadb | stars=776 | pushed=2026-11-17 | os=android | flags=cn

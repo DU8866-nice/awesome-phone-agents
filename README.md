@@ -103,7 +103,7 @@ iOS 不允许普通 App 操作其他 App，所以 iPhone 上能直接替你点�
 - **[iPhone-use](https://github.com/zhongerxin/iPhone-use)** · ★ 5.0k · 💻 🀄 🆕<br>让 Codex、WorkBuddy 等通过 USB 操作真实 iPhone：打开 App、读取页面、点击滚动输入，并在侧边栏显示手机实时画面。<br><sub>iPhone · 更新于 2026-10 · MIT</sub><br><sub>💡 需要 Mac 并先在手机上签名安装 WebDriverAgent；默认发送匿名使用统计，设 IPHONE_USE_ANALYTICS=0 可关闭</sub>
 - **[pinky](https://github.com/DIYgod/pinky)** · ★ 2.4k · 💻 🀄 🆕<br>让 Claude Code、Codex、Cursor 等任何 MCP Agent 操作真实的 iPhone 或安卓手机：你在电脑上看着它干活，有风险的步骤由你批准，随时可以接管，事后能回放。<br><sub>Android / iPhone · 更新于 2026-11 · Apache-2.0</sub><br><sub>💡 电脑端支持 macOS、Windows、Linux；默认在付款前询问你</sub>
 - **[android-remote-control-mcp](https://github.com/danielealbano/android-remote-control-mcp)** · ★ 846<br>装在安卓手机上的 MCP 服务器：Claude 等 AI 远程连上后即可读界面、点按、输入和滑动；可选隐私模式，先把邮箱、卡号等个人信息遮掉再发给模型。<br><sub>Android · 更新于 2026-11</sub>
-- **[ios-mcp](https://github.com/witchan/ios-mcp)** · ★ 695 · 🔓 🀄<br>运行在越狱 iPhone 上的 MCP 服务器：触控手势、硬件按键、文字输入、截图、App 管理和无障碍元素操作。<br><sub>iPhone · 更新于 2026-09 · MIT</sub>
+- **[ios-mcp](https://github.com/witchan/ios-mcp)** · ★ 696 · 🔓 🀄<br>运行在越狱 iPhone 上的 MCP 服务器：触控手势、硬件按键、文字输入、截图、App 管理和无障碍元素操作。<br><sub>iPhone · 更新于 2026-09 · MIT</sub>
 - **[phoneuse](https://github.com/lxe/phoneuse)** · ★ 684 · 💻 🆕<br>在电脑上看到并操作未改装的 iPhone：AirPlay 镜像画面进来，蓝牙键鼠发出去，Claude Code、Codex 在你允许后可以点按和输入，不用越狱和数据线。<br><sub>iPhone · 更新于 2026-11 · MIT</sub><br><sub>💡 alpha 版；Linux 和 macOS 15 以上有安装包，Windows 需从源码构建</sub>
 - **[iCTRL](https://github.com/OpenMinis/iCTRL)** · ★ 621 · 💻<br>基于 XCUITest 的 iOS 自动化服务，给 AI 用的接口更友好，可让 Agent 操作 iPhone 和 iPad。<br><sub>iPhone · 更新于 2026-11 · Apache-2.0</sub><br><sub>💡 作者声明仅用于自动化测试和研究，配对密钥等于整台手机的控制权</sub>
 
