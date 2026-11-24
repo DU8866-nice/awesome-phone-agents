@@ -422,3 +422,6 @@ related:
   - repo: showlab/Awesome-GUI-Agent
     zh: "多模态 GUI Agent 的论文和资源。"
     en: "Papers and resources on multimodal GUI agents."
+  - repo: pichnett/awesome-agent-phone-use
+    zh: "让 AI 智能体操作真实手机的各种路线清单：应用 API、框架、设备控制、云真机、模拟器和硬件。"
+    en: "A list of the ways AI agents operate real phones and mobile apps: app APIs, frameworks, device control, device clouds, emulators and hardware."
